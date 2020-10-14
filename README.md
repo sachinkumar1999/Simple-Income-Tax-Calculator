@@ -1,1 +1,1 @@
-# Simple-Income-Tax-Calculator In C
+# Simple-Income-Tax-Calculator In C++
